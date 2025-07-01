@@ -5,35 +5,23 @@ layout: page
 # About Me
 
 
+<img src="/images/Hello.png"  class="floatpic" with="2000"  height="1000">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+<br>Here is **Shuai Zhang (张帅)**.
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+<br>First of all, thank you for your reading. My name is Zhang Shuai, born in 2004, from Renqiu, Hebei Province. I am currently a 2022-level undergraduate student at Ocean University of China, majoring in **Electronic Information Engineering**. In my daily life and study, I almost follow a "four-point, four-line" routine: dormitory - cafeteria - classroom - laboratory. You might think it's boring, but a person truly passionate about robots would find it fascinating. 
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+<br>During my undergraduate studies, I joined the Innovation Practice Center of my university and gradually developed a strong interest in fields such as **"Robots and Embedded systems"**. In the first three years of university, I participated in over ten projects, including those related to robots, intelligent vehicles, enterprise collaborations, and personal learning. Among them, there was one national-level project and one university-level project. (For details, please visit: [Project page](https://fengwuyunshang.github.io/projects/)) Besides projects, I also took part in five science and technology competitions of various scales and won two national awards and eight provincial and ministerial awards. (For details, please visit: [Awards page](https://fengwuyunshang.github.io/Awards/)) 
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+<br>Currently, I am also preparing for activities such as **summer camps and pre-recommendation** for exemption from the postgraduate entrance examination, making thorough preparations for the recommendation and exemption process. My expected research directions include robot control, such as but not limited to robotic arms, quadruped robot dogs, bionic robots, exoskeletons, medical robots, robots for complex environments, multi-agent cooperative systems, unmanned aerial vehicles, humanoid robots, embodied intelligence, general intelligence, and so on. **If you are a teacher who has come to know me from my resume or email content, I am very much looking forward to your reply and hope you can consider me.**
 
----
-
-## Research Interests
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
-
----
-
-## News and Updates
-
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+<br>Finally, if you are interested in my resume or the field of robotics, I would be very glad if you could contact me. You can reach me via email at **ShuangZhang1226@163.com** or add my WeChat **(z15227553417)** to communicate with me. 
 
 <br>
+<br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+>Here's a quote that once changed my outlook on life: 
+>
+>"Busy in body but at ease in mind." 
+>
+>I hope it will also be helpful to you.
