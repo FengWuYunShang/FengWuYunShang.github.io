@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="./images/nihao.png" class="floatpic">
+<img src="/images/nihao.png" class="floatpic">
 
 <br>首先，感谢您的阅读。我叫张帅，2004年出生，河北任丘人，目前是一名中国海洋大学的2022级本科生，专业为**电子信息工程**。
 
