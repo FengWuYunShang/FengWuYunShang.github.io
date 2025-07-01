@@ -3,27 +3,45 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-
-> Update: 20th Sep 2024
+# English:
+> Update: 20th May 2025
 
 ## Scholarships
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Sep 2023: First-Class Scholarship for Comprehensive Performance
+- Sep 2023: Honorary Title of "Outstanding Student"
+- Sep 2024: Second-Class Scholarship for Comprehensive Performance<br>
 
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Aug 2024: Third Prize in the National Undergraduate Electronic Design Competition - Information Technology Frontier Special Topic Competition **(National Level, First Team Leader)**
+- Aug 2024: **First Prize** in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category C2 **(National Level)**
+- Jul 2024: Second Prize in the 2024 TI Cup Shandong Province Undergraduate Electronic Design Competition **(First Team Leader)**
+- Dec 2023: **First Prize** in the 6th Shandong Province Undergraduate Optoelectronic Design Science and Technology Innovation Competition **(First Team Leader)**
+- Jul 2024: **First Prize** in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category A (Qilu Region) **(First Team Leader)**
+- Jul 2024: Third Prize in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category B (Qilu Region) **(First Team Leader)**
+- Jul 2024: Second Prize in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category C2 (Qilu Region)
+- Jul 2023: Third Prize in the 11th National Undergraduate Optoelectronic Design Competition - Eastern Region<br>
 
 <br>
+
+# 中文：
+
+> 更新时间：2025/05/20 
+
+## 综合奖学金
+
+- 2023年09月：综合类一等奖学金
+- 2023年09月：“优秀学生”荣誉称号
+- 2024年09月：综合类二等奖学金<br>
+
+## 科研竞赛
+
+- 2024年08月：全国大学生电子设计竞赛信息科技前沿专题竞赛三等奖 **（国家级 第一负责人）**
+- 2024年08月：第十三届全国大学生海洋航行器设计与制作大赛C2类一等奖 **（国家级）**
+- 2024年07月：2024年TI杯山东省大学生电子设计竞赛二等奖 **（第一负责人）**
+- 2023年12月：第六届山东省大学生光电设计科技创新大赛**一等奖 （第一负责人）**
+- 2024年07月：第十三届全国海洋航行器设计与制作大赛（齐鲁赛区）A类**一等奖（第一负责人）**
+- 2024年07月：第十三届全国海洋航行器设计与制作大赛（齐鲁赛区）B类三等奖 **（第一负责人）**
+- 2024年07月：第十三届全国海洋航行器设计与制作大赛（齐鲁赛区）C2类二等奖
+- 2023年07月：第十一届全国大学生光电设计竞赛东部赛区三等奖<br>
