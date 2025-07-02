@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 
-<img src="/images/Hello.jpg"  alt=/images/Hello class="floatpic" with="1000">
+<img src="/images/Hello.jpg"  alt="/images/Hello" class="floatpic" with="1000">
 
 <br>Here is **Shuai Zhang (张帅)**.
 
