@@ -4,53 +4,91 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-> (†: equal contribution, ~: corresponding author)
+# My_Project_Records
 
-## Journal Paper
+- ## 连续体多模态机器人
+  <img src="/images/project/多模态机器人.png" alt="/images/project/多模态机器人" width="800">
+  
+  - ### 时间：2024秋季学期-2025暑假
+  - ### 简介：
+    **已申报国创项目** 连续体体现在它的软体单元是连续，中间不存在关节等结构。而它的多模态则体现在，它可以利用软体单元实现自由航行、抓取物品以及爬行运动等工作。
+  - ### 本人所涉及技术：
+    TCP/IP通信、PyQt上位机App、机器人硬件系统
 
-- Graph Representation-based Model Poisoning on Federated Large Language Models<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.
+    <div class="four">
+    <img src="/videos/图片1.gif">
+    <img src="/videos/图片3.gif">
+    <img src="/videos/图片4.gif">
+    <img src="/videos/图片5.gif">
+    </div>
 
-## Conference Paper
+- ## 两栖仿生机器人
+  <img src="/images/project/两栖仿生机器人.jpg" alt="/images/project/两栖仿生机器人" width="800">
+  
+  - ### 时间：2023秋季学期-2024暑假
+  - ### 简介：
+    **国创项目** 针对我国海岸线漫长，缺少相关人员管理的问题，本项目通过仿生海鬣蜥生物的外形、爬行步态以及尾部运动，制作一台运动灵活的水陆两栖爬行机器人，以完成岸边和近岸水域的巡逻。
+  - ### 本人所涉及技术：
+    爬行步态、机器人硬件系统、人员分工、进度规划、会议安排
 
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.
+- ## 无人船
+   <img src="/images/project/无人船.jpg" alt="/images/project/无人船" width="800">
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
+  - ### 时间：2024年春季学期+暑假
+  - ### 简介：
+    本项目是针对全国大学生海洋航行器设计与制作大赛C2类而制作的无人船。无人船的功能主要包括：依据光电门自主巡航、自动识别打靶。
+  - ### 本人所涉及技术：
+    隔离电路（!）、PCB设计、PCB焊接、PCB_Debug（!）
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.
+- ## 海参捕捞机器人
+  <img src="/images/project/海参捕捞机器人.jpg" alt="/images/project/海参捕捞机器人" width="800">
 
-  <br>
+  - ### 时间：2024年暑假
+  - ### 简介：
+    本项目是为了准备2024年全国大学生电子设计竞赛信息科技前沿专题赛而制作的。基于文丘里原理，我制作了一个海参吸捕装置，大大提高了捕捞海参的效率。
+  - ### 本人所涉及技术：
+    Fusion360、ROV通信系统（!）、水下机器人防水舱（!）、网线通信
 
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.
+- ## 酒精测量装置
+  <img src="/images/project/光赛酒精测量装置.jpg" alt="/images/project/光赛酒精测量装置" width="800">
+  
+  - ### 时间：2023年秋季学期
+  - ### 简介：
+      本项目是为了准备第六届山东省大学生光电设计科技创新大赛而制作的。装置通过检测穿过酒精后的红外光光强与穿过前的光强，做到无接触式测量酒精浓度。
+  - ### 本人所涉及技术：
+       Arduino（!）、电源树、文献阅读（!）。
 
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
+- ## 惯导寻迹小车
+     <img src="/images/project/电赛寻迹小车.jpg" alt="/images/project/电赛寻迹小车" width="800">
+
+  - ### 时间：2024年暑假
+  - ### 简介：
+    本项目是在2024年TI杯山东省大学生电子设计竞赛期间制作的，赛题为：H题。
+  - ### 本人所涉及技术：
+    IT板卡、PID、熬夜（!）
+
+- ## 寻宝小车
+  <img src="/images/project/光赛寻宝小车.jpg" alt="/images/project/光赛寻宝小车" width="800">
+  
+  - ### 时间：2023年春节学期+暑假
+  - ### 简介：
+      本项目是为了准备全国大学生光电设计竞赛的赛题2“迷宫寻宝”光电智能小车而制作的。小车在比赛开始时，记录下迷宫的地图；在比赛过程中，小车在迷宫中寻找己方宝藏，若不小心找错了宝藏（敌方的or假的），则扣除相应的分数。分高用时少者获胜。
+  - ### 本人所涉及技术：
+     Jetson nano环境配置（!）、PID、Python（!）、STM32（!）、Opencv
+
+- ## STM32小车
+
+  <img src="/images/project/STM32小车.jpg" alt="/images/project/STM32小车" width="800">
+  
+  - ### 时间：2022年寒假
+  - ### 简介：
+      这是本人的第一个项目，主要是用来学习STM32、熟悉PCB设计及焊接等技能。小车主要有以下功能：手机蓝牙遥控、红外寻迹、自动避障。
+  - ### 本人所涉及技术：
+     STM32（!）、PCB设计、PCB焊接（!）、舵机驱动、TB6612控制直流电机、蓝牙串口通信、超声波避障模块、红外寻迹模块、电源树。
+  
+
+    
 
 
-<br>
 
 
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Monitoring System for Effective Garbage Management<br>*Second-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
-
----
-
-## Degree Thesis
-
-- Semantic Communication for the Internet of Everything<br>Hanlin Cai (Advisor: Ozgur B. Akan).
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to ACM SIGKDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China HUADING Tech.<br>
-
-  <br>
-
-<br>
