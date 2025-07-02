@@ -8,7 +8,7 @@ title: Projects
 <br>
 
 ## 连续体多模态机器人
-  <img src="/images/project/多模态机器人.png" alt="/images/project/多模态机器人" width="800">
+  <img src="/images/project/多模态机器人.png" alt="/images/project/多模态机器人" width="400">
   
   - ### 时间：2024秋季学期-2025暑假
   - ### 简介：
@@ -16,14 +16,8 @@ title: Projects
   - ### 本人所涉及技术：
     TCP/IP通信、PyQt上位机App、机器人硬件系统
 
-    <div class="third">
-    <img src="/videos/图片1.gif">
-    <img src="/videos/图片3.gif">
-    <img src="/videos/图片4.gif">
-    </div>
-
 ## 两栖仿生机器人
-  <img src="/images/project/两栖仿生机器人.jpg" alt="/images/project/两栖仿生机器人" width="800">
+  <img src="/images/project/两栖仿生机器人.jpg" alt="/images/project/两栖仿生机器人" width="400">
   
   - ### 时间：2023秋季学期-2024暑假
   - ### 简介：
@@ -32,7 +26,7 @@ title: Projects
     爬行步态、机器人硬件系统、人员分工、进度规划、会议安排
 
 ## 无人船
-   <img src="/images/project/无人船.jpg" alt="/images/project/无人船" width="800">
+   <img src="/images/project/无人船.jpg" alt="/images/project/无人船" width="400">
 
   - ### 时间：2024年春季学期+暑假
   - ### 简介：
@@ -41,7 +35,7 @@ title: Projects
     隔离电路（!）、PCB设计、PCB焊接、PCB_Debug（!）
 
 ## 海参捕捞机器人
-  <img src="/images/project/海参捕捞机器人.jpg" alt="/images/project/海参捕捞机器人" width="800">
+  <img src="/images/project/海参捕捞机器人.jpg" alt="/images/project/海参捕捞机器人" width="400">
 
   - ### 时间：2024年暑假
   - ### 简介：
@@ -49,8 +43,17 @@ title: Projects
   - ### 本人所涉及技术：
     Fusion360、ROV通信系统（!）、水下机器人防水舱（!）、网线通信
 
+## AI智能拍拍灯
+  <img src="/images/project/AI智能拍拍灯.png" alt="/images/project/AI智能拍拍灯" width="400">
+  
+  - ### 时间：2025年春季学期
+  - ### 简介：
+      本项目为企业委托项目，智能拍拍灯将AI大模型对话和传统的拍拍灯相结合，旨在丰富幼儿园小朋友的学习生活，让其接触到较为前沿的技术。
+  - ### 本人所涉及技术：
+       Esp32（！）、C++、FreeRTOS（！）
+
 ## 酒精测量装置
-  <img src="/images/project/光赛酒精测量装置.jpg" alt="/images/project/光赛酒精测量装置" width="800">
+  <img src="/images/project/光赛酒精测量装置.jpg" alt="/images/project/光赛酒精测量装置" width="400">
   
   - ### 时间：2023年秋季学期
   - ### 简介：
@@ -60,7 +63,7 @@ title: Projects
 
 ## 惯导寻迹小车
 
-  <img src="/images/project/电赛寻迹小车.jpg" alt="/images/project/电赛寻迹小车" width="800">
+  <img src="/images/project/电赛寻迹小车.jpg" alt="/images/project/电赛寻迹小车" width="400">
 
   - ### 时间：2024年暑假
   - ### 简介：
@@ -69,7 +72,7 @@ title: Projects
     IT板卡、PID、熬夜（!）
 
 ## 寻宝小车
-  <img src="/images/project/光赛寻宝小车.jpg" alt="/images/project/光赛寻宝小车" width="800">
+  <img src="/images/project/光赛寻宝小车.jpg" alt="/images/project/光赛寻宝小车" width="400">
   
   - ### 时间：2023年春节学期+暑假
   - ### 简介：
@@ -79,7 +82,7 @@ title: Projects
 
 ## STM32小车
 
-  <img src="/images/project/STM32小车.jpg" alt="/images/project/STM32小车" width="800">
+  <img src="/images/project/STM32小车.jpg" alt="/images/project/STM32小车" width="400">
   
   - ### 时间：2022年寒假
   - ### 简介：
