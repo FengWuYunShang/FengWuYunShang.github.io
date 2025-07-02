@@ -3,16 +3,16 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-# English:
+## English Version:
 > Update: 20th May 2025
 
-## Scholarships
+### Scholarships
 
 - Sep 2023: First-Class Scholarship for Comprehensive Performance
 - Sep 2023: Honorary Title of "Outstanding Student"
 - Sep 2024: Second-Class Scholarship for Comprehensive Performance<br>
 
-## Competitions
+### Competitions
 
 - Aug 2024: Third Prize in the National Undergraduate Electronic Design Competition - Information Technology Frontier Special Topic Competition **(National Level, First Team Leader)**
 - Aug 2024: **First Prize** in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category C2 **(National Level)**
@@ -25,17 +25,17 @@ title: Awards
 
 <br>
 
-# 中文：
+## 中文：
 
 > 更新时间：2025/05/20 
 
-## 综合奖学金
+### 综合奖学金
 
 - 2023年09月：综合类一等奖学金
 - 2023年09月：“优秀学生”荣誉称号
 - 2024年09月：综合类二等奖学金<br>
 
-## 科研竞赛
+### 科研竞赛
 
 - 2024年08月：全国大学生电子设计竞赛信息科技前沿专题竞赛三等奖 **（国家级 第一负责人）**
 - 2024年08月：第十三届全国大学生海洋航行器设计与制作大赛C2类一等奖 **（国家级）**

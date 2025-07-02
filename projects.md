@@ -5,8 +5,9 @@ title: Projects
 ---
 
 # My_Project_Records
+<br>
 
-- ## 连续体多模态机器人
+## 连续体多模态机器人
   <img src="/images/project/多模态机器人.png" alt="/images/project/多模态机器人" width="800">
   
   - ### 时间：2024秋季学期-2025暑假
@@ -15,14 +16,13 @@ title: Projects
   - ### 本人所涉及技术：
     TCP/IP通信、PyQt上位机App、机器人硬件系统
 
-    <div class="four">
+    <div class="third">
     <img src="/videos/图片1.gif">
     <img src="/videos/图片3.gif">
     <img src="/videos/图片4.gif">
-    <img src="/videos/图片5.gif">
     </div>
 
-- ## 两栖仿生机器人
+## 两栖仿生机器人
   <img src="/images/project/两栖仿生机器人.jpg" alt="/images/project/两栖仿生机器人" width="800">
   
   - ### 时间：2023秋季学期-2024暑假
@@ -31,7 +31,7 @@ title: Projects
   - ### 本人所涉及技术：
     爬行步态、机器人硬件系统、人员分工、进度规划、会议安排
 
-- ## 无人船
+## 无人船
    <img src="/images/project/无人船.jpg" alt="/images/project/无人船" width="800">
 
   - ### 时间：2024年春季学期+暑假
@@ -40,7 +40,7 @@ title: Projects
   - ### 本人所涉及技术：
     隔离电路（!）、PCB设计、PCB焊接、PCB_Debug（!）
 
-- ## 海参捕捞机器人
+## 海参捕捞机器人
   <img src="/images/project/海参捕捞机器人.jpg" alt="/images/project/海参捕捞机器人" width="800">
 
   - ### 时间：2024年暑假
@@ -49,7 +49,7 @@ title: Projects
   - ### 本人所涉及技术：
     Fusion360、ROV通信系统（!）、水下机器人防水舱（!）、网线通信
 
-- ## 酒精测量装置
+## 酒精测量装置
   <img src="/images/project/光赛酒精测量装置.jpg" alt="/images/project/光赛酒精测量装置" width="800">
   
   - ### 时间：2023年秋季学期
@@ -58,8 +58,9 @@ title: Projects
   - ### 本人所涉及技术：
        Arduino（!）、电源树、文献阅读（!）。
 
-- ## 惯导寻迹小车
-     <img src="/images/project/电赛寻迹小车.jpg" alt="/images/project/电赛寻迹小车" width="800">
+## 惯导寻迹小车
+
+  <img src="/images/project/电赛寻迹小车.jpg" alt="/images/project/电赛寻迹小车" width="800">
 
   - ### 时间：2024年暑假
   - ### 简介：
@@ -67,7 +68,7 @@ title: Projects
   - ### 本人所涉及技术：
     IT板卡、PID、熬夜（!）
 
-- ## 寻宝小车
+## 寻宝小车
   <img src="/images/project/光赛寻宝小车.jpg" alt="/images/project/光赛寻宝小车" width="800">
   
   - ### 时间：2023年春节学期+暑假
@@ -76,7 +77,7 @@ title: Projects
   - ### 本人所涉及技术：
      Jetson nano环境配置（!）、PID、Python（!）、STM32（!）、Opencv
 
-- ## STM32小车
+## STM32小车
 
   <img src="/images/project/STM32小车.jpg" alt="/images/project/STM32小车" width="800">
   
