@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# My_Project_Records
+# My Projects Record
 <br>
 
 ## 连续体多模态机器人
