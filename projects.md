@@ -7,6 +7,8 @@ title: Projects
 ## <center> 项目记录 </center>
 <br>
 
+---
+
 ## 连续体多模态机器人
   <img src="/images/project/多模态机器人.png" alt="/images/project/多模态机器人" width="400">
   
@@ -18,6 +20,8 @@ title: Projects
      连续体体现在它的软体单元是连续，中间不存在关节等结构。而它的多模态则体现在，它可以利用软体单元实现自由航行、抓取物品以及爬行运动等工作。
   - ### 本人所涉及技术：
     TCP/IP通信、**PyQt上位机App**、**机器人硬件电路系统**、机器人控制模型
+
+---
 
 ## 两栖仿生机器人
   <img src="/images/project/两栖仿生机器人.jpg" alt="/images/project/两栖仿生机器人" width="400">
@@ -32,6 +36,8 @@ title: Projects
   - ### 本人所涉及技术：
     **爬行步态**、**机器人硬件电路系统**、人员分工、进度规划、会议安排
 
+---
+
 ## 无人船
    <img src="/images/project/无人船.jpg" alt="/images/project/无人船" width="400">
 
@@ -40,6 +46,8 @@ title: Projects
     本项目是针对全国大学生海洋航行器设计与制作大赛C2类而制作的无人船。无人船的功能主要包括：依据光电门自主巡航、自动识别打靶。
   - ### 本人所涉及技术：
     **Yolov5**、目标标注
+
+---
 
 ## 海参捕捞机器人
   <img src="/images/project/海参捕捞机器人.jpg" alt="/images/project/海参捕捞机器人" width="400">
@@ -50,6 +58,8 @@ title: Projects
   - ### 本人所涉及技术：
     **Linux系统构建**、网络编程、I/O编程、Fusion360(3D建模)
 
+---
+
 ## AI智能拍拍灯
   <img src="/images/project/AI智能拍拍灯.png" alt="/images/project/AI智能拍拍灯" width="400">
   
@@ -59,6 +69,8 @@ title: Projects
   - ### 本人所涉及技术：
        **Esp32**、C++、**FreeRTOS**
 
+---
+
 ## 酒精测量装置
   <img src="/images/project/光赛酒精测量装置.jpg" alt="/images/project/光赛酒精测量装置" width="400">
   
@@ -67,6 +79,8 @@ title: Projects
       本项目是为了准备第六届山东省大学生光电设计科技创新大赛而制作的。装置通过检测穿过酒精后的红外光光强与穿过前的光强，做到无接触式测量酒精浓度。
   - ### 本人所涉及技术：
        **Arduino**、电源树、**文献阅读**
+
+---
 
 ## 惯导寻迹小车
 
@@ -78,6 +92,8 @@ title: Projects
   - ### 本人所涉及技术：
     IT板卡、PID、**熬夜**
 
+---
+
 ## 寻宝小车
   <img src="/images/project/光赛寻宝小车.jpg" alt="/images/project/光赛寻宝小车" width="400">
   
@@ -86,6 +102,8 @@ title: Projects
       本项目是为了准备全国大学生光电设计竞赛的赛题2“迷宫寻宝”光电智能小车而制作的。小车在比赛开始时，记录下迷宫的地图；在比赛过程中，小车在迷宫中寻找己方宝藏，若不小心找错了宝藏（敌方的or假的），则扣除相应的分数。分高用时少者获胜。
   - ### 本人所涉及技术：
      **Jetson nano**、PID、Python、**STM32**、Opencv
+
+---
 
 ## STM32小车
 
@@ -97,9 +115,4 @@ title: Projects
   - ### 本人所涉及技术：
      **STM32**、**PCB设计**、PCB焊接、舵机驱动、TB6612控制直流电机、蓝牙串口通信、超声波避障模块、红外寻迹模块、电源树。
   
-
-    
-
-
-
 
