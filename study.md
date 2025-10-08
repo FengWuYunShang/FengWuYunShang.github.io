@@ -1170,4 +1170,295 @@ int main() {
 }
 ```
 ---
+
+### 案例学习：通讯录管理系统
+
+- 系统中需要实现的功能如下：
+
+  * 添加联系人：向通讯录中添加新人，信息包括（姓名、性别、年龄、联系电话、家庭住址）最多记录1000人
+  * 显示联系人：显示通讯录中所有联系人信息
+  * 删除联系人：按照姓名进行删除指定联系人
+  * 查找联系人：按照姓名查看指定联系人信息
+  * 修改联系人：按照姓名重新修改指定联系人
+  * 清空联系人：清空通讯录中所有信息
+  * 退出通讯录：退出当前使用的通讯录
+
+- AddressBook.h
+
+```C++
+#include <iostream>
+#include <string>
+using namespace std;
+#define MAX 1000
+
+void showMenu();
+struct contact {
+	string name;
+	int age;
+	int sex;
+	string phone;
+	string address;
+};
+struct addressBooks {
+	contact personArray[MAX];
+	int m_Size;
+};
+
+void initAddressBook(addressBooks* abs);
+void addContact(addressBooks* abs);
+void showContact(const addressBooks* abs);
+int isExist(addressBooks* abs, string name);
+void deleteContact(addressBooks* abs);
+void findContact(addressBooks* abs);
+void modifyContact(addressBooks* abs);
+void clearContact(addressBooks* abs);
+
+```
+
+- AddressBook.cpp
+
+```C++
+#include "Addressbook.h"
+
+void showMenu() {
+	cout << "*******************************" << endl;
+	cout << "***** 1. Add Contact    *****" << endl;
+	cout << "***** 2. Show Contact   *****" << endl;
+	cout << "***** 3. Delete Contact *****" << endl;
+	cout << "***** 4. Find Contact   *****" << endl;
+	cout << "***** 5. Modify Contact *****" << endl;
+	cout << "***** 6. Clear Contact  *****" << endl;
+	cout << "***** 0. Exit          *****" << endl;
+	cout << "*******************************" << endl;
+}
+
+
+void initAddressBook(addressBooks* abs) {
+	abs->m_Size = 0;
+}
+
+void addContact(addressBooks* abs) {
+	if (abs->m_Size == MAX) {
+		cout << "The address book is full, cannot add more contacts." << endl;
+		return;
+	}
+	else {
+		string name;
+		cout << "Enter name: ";
+		cin >> name;
+		abs->personArray[abs->m_Size].name = name;
+		int age;
+		cout << "Enter age: ";
+		cin >> age;
+		abs->personArray[abs->m_Size].age = age;
+		int	sex;
+		cout << "Enter sex: ";
+		while (true)
+		{
+			cin >> sex;
+			if (sex == 1 || sex == 2) {
+				abs->personArray[abs->m_Size].sex = sex;
+				break;
+			}
+			else {
+				cout << "Invalid input, please enter 1 or 2 again." << endl;
+			}
+		}
+	
+		string phone;
+		cout << "Enter phone: ";
+		cin >> phone;
+		abs->personArray[abs->m_Size].phone = phone;
+		string address;
+		cout << "Enter address: ";
+		cin >> address;
+		abs->personArray[abs->m_Size].address = address;
+		abs->m_Size++;
+		cout << "Contact added successfully!" << endl;
+		
+		
+	}
+}
+
+void showContact(const addressBooks* abs) {
+	if (abs->m_Size == 0) {
+		cout << "The address book is empty, please add contacts first." << endl;
+	}
+	else {
+		for (int i = 0; i < abs->m_Size; i++) {
+			cout << "Name: " << abs->personArray[i].name << "\t";
+			cout << "Age: " << abs->personArray[i].age << "\t";
+			cout << "Sex: " << abs->personArray[i].sex << "\t";
+			cout << "Phone: " << abs->personArray[i].phone << "\t";
+			cout << "Address: " << abs->personArray[i].address << endl;
+		}
+	}
+	
+	
+}
+int isExist(addressBooks* abs, string name) {
+	for (int i = 0; i < abs->m_Size; i++) {
+		if (abs->personArray[i].name == name) {
+			return i;
+		}
+	}
+	return -1;
+}
+void deleteContact(addressBooks* abs) {
+	if (abs->m_Size == 0) {
+		cout << "The address book is empty, please add contacts first." << endl;
+	}
+	else {
+		string name;
+		cout << "Enter the name of the contact to delete: ";
+		cin >> name;
+		int ret = isExist(abs, name);
+		if (ret != -1) {
+			for (int i = ret; i < abs->m_Size - 1; i++) {
+				abs->personArray[i] = abs->personArray[i + 1];
+			}
+			abs->m_Size--;
+			cout << "Contact deleted successfully!" << endl;
+		}
+		else {
+			cout << "Contact not found!" << endl;
+		}
+	}
+	
+	
+}
+void findContact(addressBooks* abs) {
+	if (abs->m_Size == 0) {
+		cout << "The address book is empty, please add contacts first." << endl;
+	}
+	else {
+		string name;
+		cout << "Enter the name of the contact to find: ";
+		cin >> name;
+		int ret = isExist(abs, name);
+		if (ret != -1) {
+			cout << "Name: " << abs->personArray[ret].name << "\t";
+			cout << "Age: " << abs->personArray[ret].age << "\t";
+			cout << "Sex: " << abs->personArray[ret].sex << "\t";
+			cout << "Phone: " << abs->personArray[ret].phone << "\t";
+			cout << "Address: " << abs->personArray[ret].address << endl;
+		}
+		else {
+			cout << "Contact not found!" << endl;
+		}
+	}
+	
+	
+}
+void modifyContact(addressBooks* abs) {
+	if (abs->m_Size == 0) {
+		cout << "The address book is empty, please add contacts first." << endl;
+	}
+	else {
+		string name;
+		cout << "Enter the name of the contact to modify: ";
+		cin >> name;
+		int ret = isExist(abs, name);
+		if (ret != -1) {
+			string name;
+			cout << "Enter new name: ";
+			cin >> name;
+			abs->personArray[ret].name = name;
+			int age;
+			cout << "Enter new age: ";
+			cin >> age;
+			abs->personArray[ret].age= age;
+			int	sex;
+			cout << "Enter new sex: ";
+			while (true)
+			{
+				cin >> sex;
+				if (sex == 1 || sex == 2) {
+					abs->personArray[ret].sex = sex;
+					break;
+				}
+				else {
+					cout << "Invalid input, please enter 1 or 2 again." << endl;
+				}
+			}
+
+			string phone;
+			cout << "Enter phone: ";
+			cin >> phone;
+			abs->personArray[ret].phone = phone;
+			string address;
+			cout << "Enter address: ";
+			cin >> address;
+			abs->personArray[ret].address = address;
+			cout << "Contact modified successfully!" << endl;
+		}
+		else {
+			cout << "Contact not found!" << endl;
+		}
+	}
+	
+}
+void clearContact(addressBooks* abs) {
+	abs->m_Size = 0;
+	cout << "All contacts have been cleared!" << endl;
+	
+}
+
+```
+
+- Main.cpp
+  
+```C++
+#include <iostream>
+#include "Addressbook.h"
+using namespace std;
+
+int main() {
+
+	addressBooks abs;
+	initAddressBook(&abs);
+	showMenu();
+	
+	int select = 0;
+	while (true) {
+		cin >> select;
+
+		switch (select) {
+		case 1:
+			cout << "Add Contact" << endl;
+			addContact(&abs);
+			break;
+		case 2:
+			cout << "Show Contact" << endl;
+			showContact(&abs);
+			break;
+		case 3:
+			cout << "Delete Contact" << endl;
+			deleteContact(&abs);
+			break;
+		case 4:
+			cout << "Find Contact" << endl;
+			findContact(&abs);
+			break;
+		case 5:
+			cout << "Modify Contact" << endl;
+			modifyContact(&abs);
+			break;
+		case 6:
+			cout << "Clear Contact" << endl;
+			clearContact(&abs);
+			break;
+		case 0:
+			cout << "Exit" << endl;
+			system("pause");
+			return 0;
+		default:
+			cout << "Invalid input, please enter again." << endl;
+			break;
+		}
+	}
+}
+
+```
+
 ## 更新中......
