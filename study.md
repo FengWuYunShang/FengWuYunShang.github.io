@@ -4,7 +4,7 @@ permalink: /study/index.html
 title: 学习记录
 ---
 
-# <center> 嵌入式软件Lniux学习记录 </center>
+## <center> 嵌入式软件Lniux学习记录 </center>
 
 <br>**学习路线**：C++ -> Qt开发 -> Linux编程 -> Linux驱动开发
 
@@ -23,7 +23,7 @@ title: 学习记录
 
 ---
 
-### [第一阶段：C++基础语法入门](https://fengwuyunshang.github.io/studys/_1_C++/)
+- [第一阶段：C++基础语法入门](https://fengwuyunshang.github.io/studys/_1_C++/)
 
 
 ## 更新中......
