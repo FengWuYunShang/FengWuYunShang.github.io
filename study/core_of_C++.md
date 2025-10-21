@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /studys/basic/index.html
+permalink: /study/core_of_C++/index.html
 title: 第二阶段：C++核心编程
 ---
 

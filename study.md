@@ -25,5 +25,6 @@ title: 学习记录
 
 - [第一阶段：C++基础语法入门](https://fengwuyunshang.github.io/study/basic_of_C++/)
 
+- [第二阶段：C++核心编程](https://fengwuyunshang.github.io/study/core_of_C++/)
 
 ## 更新中......

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /studys/basic/index.html
+permalink: /study/basic_of_C++/index.html
 title: 第一阶段：C++基础语法入门
 ---
 
