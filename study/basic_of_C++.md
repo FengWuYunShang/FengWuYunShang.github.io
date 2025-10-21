@@ -14,7 +14,7 @@ title: 第一阶段：C++基础语法入门
 
 - **示例：**
 
-```C++
+```c++
 #include<iostream>
 using namespace std;
 
@@ -53,7 +53,7 @@ C++定义常量两种方式
 
 - **示例：**
 
-```C++
+```c++
 //1、宏常量
 #define day 7
 
@@ -113,7 +113,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
     int a = 10;
@@ -174,7 +174,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 	
 	
@@ -194,7 +194,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 //递增
 int main() {
 
@@ -234,7 +234,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 //选择结构-单行if语句
@@ -266,7 +266,7 @@ return 0;
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	int a = 10;
@@ -291,7 +291,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	//请给电影评分 
@@ -343,7 +343,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	int num = 0;
@@ -388,7 +388,7 @@ break使用的时机：
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 	//在嵌套循环语句中使用break，退出内层循环
 	for (int i = 0; i < 10; i++)
@@ -419,7 +419,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	for (int i = 0; i < 100; i++)
@@ -459,7 +459,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	cout << "1" << endl;
@@ -496,7 +496,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	//定义方式1
@@ -555,7 +555,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	//数组名用途
@@ -605,7 +605,7 @@ int main() {
 
 - **示例：** 将数组 { 4,2,8,0,5,7,1,3,9 } 进行升序排序
 
-```C++
+```c++
 int main() {
 
     int arr[9] = { 4,2,8,0,5,7,1,3,9 };
@@ -651,7 +651,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	//方式1  
@@ -706,7 +706,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 int main() {
 
 	//二维数组数组名
@@ -757,7 +757,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 //声明可以多次，定义只能一次
 //声明
 int max(int a, int b);
@@ -796,7 +796,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 //swap.h文件
 #include<iostream>
 using namespace std;
@@ -806,7 +806,7 @@ void swap(int a, int b);
 
 ```
 
-```C++
+```c++
 //swap.cpp文件
 #include "swap.h"
 
@@ -821,7 +821,7 @@ void swap(int a, int b)
 }
 ```
 
-```C++
+```c++
 //main函数文件
 #include "swap.h"
 int main() {
@@ -859,7 +859,7 @@ int main() {
 
 - **示例1：空指针**
 
-```C++
+```c++
 int main() {
 
 	//指针变量p指向内存地址编号为0的空间
@@ -879,7 +879,7 @@ int main() {
 
 - **示例2：野指针**
 
-```C++
+```c++
 int main() {
 
 	//指针变量p指向内存地址编号为0x1100的空间
@@ -913,7 +913,7 @@ const修饰指针有三种情况
 - **示例：**
 
 
-```C++
+```c++
 int main() {
 
 	int a = 10;
@@ -955,7 +955,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 //值传递
 void swap1(int a ,int b)
 {
@@ -1003,7 +1003,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 //冒泡排序函数
 void bubbleSort(int * arr, int len)  //int * arr 也可以写为int arr[]
 {
@@ -1065,7 +1065,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 //结构体定义
 struct student
 {
@@ -1121,7 +1121,7 @@ int main() {
 
 - **示例：**
 
-```C++
+```c++
 //学生结构体定义
 struct student
 {
@@ -1166,7 +1166,7 @@ int main() {
 
 - AddressBook.h
 
-```C++
+```c++
 #include <iostream>
 #include <string>
 using namespace std;
@@ -1198,7 +1198,7 @@ void clearContact(addressBooks* abs);
 
 - AddressBook.cpp
 
-```C++
+```c++
 #include "Addressbook.h"
 
 void showMenu() {
@@ -1389,7 +1389,7 @@ void clearContact(addressBooks* abs) {
 
 - Main.cpp
   
-```C++
+```c++
 #include <iostream>
 #include "Addressbook.h"
 using namespace std;
