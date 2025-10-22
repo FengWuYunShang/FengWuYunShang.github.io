@@ -57,6 +57,18 @@ title: 项目
   - ### 本人所涉及技术：
     **Linux系统构建**、网络编程、I/O编程、Fusion360(3D建模)
 
+
+---
+
+## Linux From Scratch -12.1
+  <img src="/images/project/LFS.png" alt="/images/project/LFS" width="400">
+
+  - ### 时间：2025年秋季学期
+  - ### 简介：
+    该项目是我根据["LFS官方手册-12.1版"](https://www.linuxfromscratch.org/lfs/view/12.1/)，从零开始构建的一个基础的Linux操作系统。但从图片上可以看出，系统目前并不是很完善。之后，我也会为其修补修补。
+  - ### 本人所涉及技术：
+    **各种Linux命令**(：wegt, tar , make, install, find, cat, sed, mount, export, echo......)、**交叉编译**、**Linux内核选项和驱动选取**、硬盘分区、系统引导
+
 ---
 
 ## AI智能拍拍灯
