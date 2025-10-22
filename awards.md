@@ -3,32 +3,6 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-## English Version:
-> Update: 20th Oct 2025
-
-### Scholarships
-
-- Sep 2023: First-Class Scholarship for Comprehensive Performance
-- Sep 2023: Honorary Title of "Outstanding Student"
-- Sep 2024: Second-Class Scholarship for Comprehensive Performance
-- Sep 2025: Second-Class Scholarship for Comprehensive Performance<br>
-
-### Competitions
-
-- Aug 2024: Third Prize in the National Undergraduate Electronic Design Competition - Information Technology Frontier Special Topic Competition **(National Level, First Team Leader)**
-- Aug 2024: **First Prize** in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category C2 **(National Level)**
-- Aug 2025: **Second Prize** in the 14th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category B2 **(National Level)**
-- Jul 2024: Second Prize in the 2024 TI Cup Shandong Province Undergraduate Electronic Design Competition **(First Team Leader)**
-- Dec 2023: **First Prize** in the 6th Shandong Province Undergraduate Optoelectronic Design Science and Technology Innovation Competition **(First Team Leader)**
-- Jul 2024: **First Prize** in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category A (Qilu Region) **(First Team Leader)**
-- Jul 2025: **First Prize** in the 14th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category B2 (Qilu Region)
-- Jul 2024: Third Prize in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category B2 (Qilu Region) **(First Team Leader)**
-- Jul 2024: Second Prize in the 13th National Undergraduate Ocean Vehicle Design and Manufacturing Competition - Category C2 (Qilu Region)
-- Jul 2023: Third Prize in the 11th National Undergraduate Optoelectronic Design Competition - Eastern Region<br>
-
-<br>
-
-## 中文：
 
 > 更新时间：2025/10/08 
 

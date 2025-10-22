@@ -2,26 +2,24 @@
 layout: page
 ---
 
-# About Me
+## 关于我
 
+<img src="/images/nihao.png" alt="/images/nihao" class="floatpic" width="800">
 
-<img src="/images/Hello.jpg"  alt="/images/Hello" class="floatpic" with="1000">
+<br>首先，感谢您的阅读。我叫张帅，河北任丘人，2004年出生，是一名中国海洋大学的2022级本科生，专业为 **电子信息工程** 。目前，我已经保送到哈尔滨工业大学。从明年9月份开始，我会在哈工大开始我的硕士之旅。
 
-<br>Here is **Shuai Zhang (张帅)**.
+<br>在本科的学习中，我曾加入我校的创新实践中心，逐渐对 **“嵌入式、机器人、机械臂、智能车、物联网”** 等领域产生浓厚兴趣。在大学的前三年时光中，我参与过包括机器人、智能车、企业合作以及个人学习等项目，共十余项，其中包括两项国创项目。（详细请见：[Project页面](https://fengwuyunshang.github.io/projects/)）除了项目之外，我也参与过五次大大小小的科技竞赛，获得过国家级和省部级奖项若干。（详细请见：[Awards页面](https://fengwuyunshang.github.io/awards/)）
 
-<br>First of all, thank you for reading. My name is Zhang Shuai. I was born in 2004 in Renqiu, Hebei Province. I am a 2022 undergraduate student at Ocean University of China, majoring in **Electronic Information Engineering**. Currently, I have been admitted to Harbin Institute of Technology for further studies. Starting from September next year, I will embark on my master's journey at Harbin Institute of Technology.
+<br>目前我正在学习 **嵌入式软件Linux方向** 的知识（详细请见：[学习记录 页面](https://fengwuyunshang.github.io/study/)），希望可以在明年（2026年）的上半年找到一份该方向的实习工作。若您对我的履历感兴趣，有望胜任贵公司的工作，非常期待您可以联系我。
 
-<br>During my undergraduate studies, I joined the Innovation Practice Center of my university and gradually developed a strong interest in fields such as "Embedded Systems, Robotics, Robotic Arms, Intelligent vehicles, and the Internet of Things". In the first three years of university, I participated in over ten projects, including those related to robots, intelligent vehicles, corporate collaborations, and personal learning, among which there were two national-level innovation projects. (For details, please visit: [Project page](https://fengwuyunshang.github.io/projects/)) Apart from projects, I also took part in five s&t competitions of various scales and won several national and provincial awards. (For details, please visit: [Awards page](https://fengwuyunshang.github.io/awards/))
+<br>您可以通过邮件 **（ShuangZhang1226@163.com）** 或者微信 **（z15227553417）** 来和我取得沟通。
 
-<br>Currently, I am studying knowledge in the field of **Embedded Software** with a focus on **Linux**. I hope to secure an internship in this area in the first half of next year (2026). If you find my resume interesting and believe I am a suitable candidate for your company, I would be very much looking forward to your contact.
-
-<br>You can reach me for communication via email at **ShuangZhang1226@163.com** or WeChat at **z15227553417**.
 
 <br>
 <br>
 
->Here's a quote that once changed my outlook on life: 
+> 分享一句曾改变我处世心态的话语：
 >
->"Busy in body but at ease in mind." 
+> “身忙而心闲。”
 >
->I hope it will also be helpful to you.
+> 希望也对你有所帮助。
