@@ -1,11 +1,10 @@
 ---
 layout: page
 permalink: /projects/index.html
-title: Projects
+title: 项目
 ---
 
 ## <center> 项目记录 </center>
-<br>
 
 ---
 

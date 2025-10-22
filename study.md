@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /study/index.html
-title: 学习记录
+title: 学习
 ---
 
 ## <center> 嵌入式软件Lniux学习记录 </center>

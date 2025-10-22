@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: 奖励
 ---
-
 > 更新时间：2025/10/08 
 
 ### 综合奖学金
